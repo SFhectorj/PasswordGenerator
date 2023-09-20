@@ -1,0 +1,19 @@
+loop for each letter range?(number inputted by user)
+generate random letter using import module
+print this section
+
+loop for each symbol (number inputted by user)
+generate random symbol using import module
+print this section
+
+loop for each number (number inputted by user)
+generate random number using import module
+print this section
+
+#Eazy level
+print each section in order
+print(letter, symbol, number)
+
+#Password Pro level
+print each character randomly
+print.random???
